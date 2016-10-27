@@ -1,0 +1,93 @@
+All inspection types:
+
+-------------------------------
+
+"type of property"
+
+Single Family
+Duplex
+Triplex
+Four-Plex
+Condo/Townhouse
+Mobile Home
+Vacant Land
+
+***for WF:
+Other
+***for standard 
+Other*
+------------------------------
+
+"type of construction"
+
+Frame
+Brick/Block
+Stucco
+Vinyl/Aluminum Siding
+
+***for WF:
+Other
+***for standard 
+Other*
+------------------------------
+
+"Is there a lock box on the property visible from the street?"
+
+Yes
+No
+------------------------------
+
+"is the property occuppied or vacant?" ***non-nc
+
+Occupied by Owner
+Occupied by Unknown Occupant
+--------------------------------
+
+"occupanccy determined by" ***non-nc
+
+Direct Contact
+Neighbor
+-------------------------------
+
+
+WF inspection types:
+
+-----------------------------
+
+"is property for sale?"
+
+Broker
+Owner
+Property not for sale
+----------------------------
+
+
+Standard Inspection Types:
+
+----------------------------
+
+"is property for sale?"
+
+For Sale by Broker
+For Sale by Owner
+Not For Sale
+----------------------------
+
+
+"is the property occuppied or vacant?"
+
+Occupied by Owner
+Occupied by Unknown Occupant
+-----------------------------
+
+"spoke with" ***only if determined by direct contact
+
+Other person at Property
+Relative
+-----------------------------
+
+
+
+
+
+
